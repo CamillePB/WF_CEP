@@ -1,0 +1,9 @@
+D:\2ANO\Tecnico\DS_I\WF_CEP\WF_CEP\bin\Debug\WF_CEP.exe.config
+D:\2ANO\Tecnico\DS_I\WF_CEP\WF_CEP\bin\Debug\WF_CEP.exe
+D:\2ANO\Tecnico\DS_I\WF_CEP\WF_CEP\bin\Debug\WF_CEP.pdb
+D:\2ANO\Tecnico\DS_I\WF_CEP\WF_CEP\obj\Debug\WF_CEP.csprojAssemblyReference.cache
+D:\2ANO\Tecnico\DS_I\WF_CEP\WF_CEP\obj\Debug\WF_CEP.Form1.resources
+D:\2ANO\Tecnico\DS_I\WF_CEP\WF_CEP\obj\Debug\WF_CEP.Properties.Resources.resources
+D:\2ANO\Tecnico\DS_I\WF_CEP\WF_CEP\obj\Debug\WF_CEP.csproj.GenerateResource.cache
+D:\2ANO\Tecnico\DS_I\WF_CEP\WF_CEP\obj\Debug\WF_CEP.exe
+D:\2ANO\Tecnico\DS_I\WF_CEP\WF_CEP\obj\Debug\WF_CEP.pdb
